@@ -1,1 +1,2 @@
 Hoje é a segunda aula de git init da turma 6!
+Alan Pedro turma 2
